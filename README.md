@@ -1,6 +1,22 @@
 # project-11-to-do-list-app
 
 (1/4)  project description - 
+Project Description:
+The To-Do List Application is a task management tool designed to help users organize and prioritize their tasks efficiently. The application will provide a simple, intuitive interface where users can create, manage, and track their to-do items. The primary goal is to enhance productivity by allowing users to keep track of their tasks and deadlines in one convenient place.
+
+Key Features:
+User Authentication:
+
+Sign up and login functionality to ensure personalized task management.
+Secure user data storage and retrieval.
+Task Management:
+
+Create, edit, and delete tasks.
+Organize tasks into categories or projects.
+Set due dates and reminders for tasks.
+Mark tasks as complete or incomplete.
+Prioritize tasks (e.g., high, medium, low).
+
 
 (2/4)  live link of projects - 
 
